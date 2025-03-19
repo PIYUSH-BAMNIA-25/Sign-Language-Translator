@@ -64,10 +64,26 @@ Contributions are welcome! Feel free to submit **pull requests** or open an **is
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 👨‍💻 Author
-**Piyush Bamnia**  
-📧 Email: piyushbamnia25@gmail.com  
-🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/)
+## 👨‍💻 Team Sigmoid
+**Team Name:** Team Sigmoid
+
+### 👥 Contributors
+- **Piyush Bamnia**  
+  📧 Email: piyushbamnia25@gmail.com  
+  🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/)
+
+- **Sourabh Singh Jat**  
+  📧 Email: [email@example.com]  
+  🔗 [GitHub](https://github.com/contributor2) | [LinkedIn](https://www.linkedin.com/in/sourabh11/)
+
+- **Vaibhav Pareek**  
+  📧 Email: [email@example.com]  
+  🔗 [GitHub](https://github.com/contributor3) | [LinkedIn](https://www.linkedin.com/in/vaibhav-pareek-ba2b29252/)
+
+- **Vijender Singh**  
+  📧 Email: [email@example.com]  
+  🔗 [GitHub](https://github.com/contributor3) | [LinkedIn](https://www.linkedin.com/in/vijendersingh004/)
+
 
 ---
 
