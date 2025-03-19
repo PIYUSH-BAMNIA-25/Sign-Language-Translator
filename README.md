@@ -1,6 +1,6 @@
 # Sign Language Detection using Deep Learning
 
-![Sign Language Detection](https://your-image-link-here.com)
+![Sign Language Detection]([https://imgur.com/9Cp8zoi.jpg])
 
 ## 📝 Project Overview
 This project is a **real-time sign language detection system** that translates hand gestures into text and speech. Using **Computer Vision, Deep Learning, and Text-to-Speech (TTS)**, it enables communication for individuals who rely on sign language.
@@ -16,8 +16,8 @@ This project is a **real-time sign language detection system** that translates h
 The dataset consists of **hand keypoints extracted from images**. Due to file size limitations, the CSV files are hosted externally.
 
 🔗 **Download CSV Files:**
-1. [Hand Keypoint Cleaned CSV](https://your-google-drive-link.com)
-2. [Uncleaned Hand Keypoint CSV](https://your-google-drive-link.com)
+1. [Hand Keypoint Cleaned CSV](https://drive.google.com/file/d/1KH2CvQR8vLUlm68h-gioAeV8FmD_oC9M/view?usp=sharing)
+2. [Uncleaned Hand Keypoint CSV]([https://drive.google.com/file/d/1Uag8-70WfucqTxTTDOqFcFcxepidU552/view?usp=sharing]) For EDA and Data Analysis.
 
 ## 🏗️ Tech Stack
 - **Python**
