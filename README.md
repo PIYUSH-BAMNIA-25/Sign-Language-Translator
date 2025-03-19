@@ -33,12 +33,7 @@ git clone https://github.com/PIYUSH-BAMNIA-25/Sign-Language-Translator.git
 cd Sign-Language-Translator
 ```
 
-### 2️⃣ Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
-### 3️⃣ Download CSV Files
+### 2️⃣ Download CSV Files
 Place the CSV files in the **`data/`** folder after downloading from the links above.
 
 ## 🎯 Usage
@@ -58,10 +53,10 @@ The deep learning model is built using **TensorFlow & Keras** with the following
 - **Output Layer:** Softmax for classification into 26 letters
 
 ## 🔥 Future Enhancements
-✅ **Improve prediction stability** with temporal smoothing.
-✅ **Enhance UI/UX** with a graphical interface.
-✅ **Support multi-hand detection** for full sign language sentences.
-✅ **Deploy as a Web App** using Flask or Streamlit.
+- ✅ **Improve prediction stability** with temporal smoothing.
+- ✅ **Enhance UI/UX** with a graphical interface.
+- ✅ **Support multi-hand detection** for full sign language sentences.
+- ✅ **Deploy as a Web App** using Flask or Streamlit.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit **pull requests** or open an **issue** for bug reports and feature requests.
@@ -72,7 +67,7 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 **Piyush Bamnia**  
 📧 Email: piyushbamnia25@gmail.com  
-🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/))
 
 ---
 
