@@ -62,7 +62,7 @@ The deep learning model is built using **TensorFlow & Keras** with the following
 Contributions are welcome! Feel free to submit **pull requests** or open an **issue** for bug reports and feature requests.
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE**.
 
 ## 👨‍💻 Team Sigmoid
 **Team Name:** Team Sigmoid
@@ -73,7 +73,7 @@ This project is licensed under the **MIT License**.
   🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/)
 
 - **Sourabh Singh Jat**  
-  📧 Email: [email@example.com]  
+  📧 Email: jatsourabhsinghgovindsingh@gmail.com  
   🔗 [GitHub](https://github.com/contributor2) | [LinkedIn](https://www.linkedin.com/in/sourabh11/)
 
 - **Vaibhav Pareek**  
