@@ -1,6 +1,6 @@
 # Sign Language Detection using Deep Learning
 
-![Sign Language Detection]([https://imgur.com/9Cp8zoi.jpg])
+![Sign Language Detection](https://imgur.com/9Cp8zoi.jpg)
 
 ## 📝 Project Overview
 This project is a **real-time sign language detection system** that translates hand gestures into text and speech. Using **Computer Vision, Deep Learning, and Text-to-Speech (TTS)**, it enables communication for individuals who rely on sign language.
@@ -17,7 +17,7 @@ The dataset consists of **hand keypoints extracted from images**. Due to file si
 
 🔗 **Download CSV Files:**
 1. [Hand Keypoint Cleaned CSV](https://drive.google.com/file/d/1KH2CvQR8vLUlm68h-gioAeV8FmD_oC9M/view?usp=sharing)
-2. [Uncleaned Hand Keypoint CSV]([https://drive.google.com/file/d/1Uag8-70WfucqTxTTDOqFcFcxepidU552/view?usp=sharing]) For EDA and Data Analysis.
+2. [Uncleaned Hand Keypoint CSV](https://drive.google.com/file/d/1Uag8-70WfucqTxTTDOqFcFcxepidU552/view?usp=sharing) 
 
 ## 🏗️ Tech Stack
 - **Python**
@@ -67,7 +67,7 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 **Piyush Bamnia**  
 📧 Email: piyushbamnia25@gmail.com  
-🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/))
+🔗 [GitHub](https://github.com/PIYUSH-BAMNIA-25) | [LinkedIn](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/)
 
 ---
 
